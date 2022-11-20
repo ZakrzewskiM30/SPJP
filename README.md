@@ -28,5 +28,5 @@
 - [Mateusz Ostrowski](https://github.com/Matost99/Informatyka.git) gr.4
 - [Paulina Szynaka](https://github.com/paulina9876/SPJP) gr. 4
 - [Daria Ogdowska](https://github.com/DariaOgd/UG_SPJP) gr. 4
-- [Joanna Jońca](https://github.com/jjonca/SPJP) gr. 4
+- [Joanna Jońca](https://github.com/jjonca/SPJP) gr. 4 +
 - [Bartłomiej Wiczling](https://github.com/BWiczling/Bart-omiej-Wiczling.git) gr. 4
