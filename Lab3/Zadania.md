@@ -29,7 +29,7 @@ Napisz program który pobierze od użytkownika trzy liczby i zwróci największ�
 
 ## Zadanie 5
 
-Napisz program który pobierze od użytkownika znak ASCII i sprawdzi czy jest on literą alfabetu.
+Napisz program który pobierze od użytkownika znak ASCII (`char`) lub kod ASCII (`int`) i sprawdzi czy jest on literą alfabetu.
 
 ## Zadanie 6
 
