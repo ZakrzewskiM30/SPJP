@@ -6,7 +6,7 @@
 - [Krystian Rybiński](https://github.com/rybinskik/clanguage.git) gr. 2 ++
 - [Wiktoria Wiśniewska](https://github.com/wiqtoriaw/laboratoria) gr. 2 +++
 - [Paweł Skorupa](https://github.com/skorupap/SPJP-1) gr. 2 +++
-- [Adrian Jarząb](https://github.com/Kodii1/Nazwa.git) gr. 2 ++
+- [Adrian Jarząb](https://github.com/Kodii1/Studia) gr. 2 ++
 - [Eryk Krysiewicz](https://github.com/erykexd/laboratoria.git) gr. 2 +
 - [Jakub Spera](https://github.com/SperaJakub/cwiczenia) gr. 2 ++
 - [Marcin Polanowski](https://github.com/marcinpolanowski/SPJP) gr. 2 +++
