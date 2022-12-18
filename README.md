@@ -17,16 +17,16 @@
 - [Oskar Aleksanderek](https://github.com/oaleksanderek/) gr. 2 ++++
 - [Kacper Cichoszewski](https://github.com/kcichoszewski444/ug) gr. 2 ++++
 - [Mateusz Kłosinski](https://github.com/mklosinski1/mklosinski/) gr. 2 ++++
-- [Jakub Jankowski](https://github.com/qn3k/Cwiczenia) gr. 4 +++
+- [Jakub Jankowski](https://github.com/qn3k/Cwiczenia) gr. 4 ++++
 - [Aleksander Kozłowicz](https://github.com/Aleks277/newproject) gr.4 ++
-- [Dominik Kuzimski](https://github.com/dkuzimski/SPJP) gr. 4 +++
-- [Tomasz Roksz](https://github.com/tomaszroksz/SPJP) gr. 4 +++
+- [Dominik Kuzimski](https://github.com/dkuzimski/SPJP) gr. 4 ++++
+- [Tomasz Roksz](https://github.com/tomaszroksz/SPJP) gr. 4 ++++
 - [Łukasz Cichy](https://github.com/lcichy16/Laboratorium) gr. 4 +++
-- [Kacper Miś](https://github.com/misk2) gr. 4 ++
-- [Rafał Arnista](https://github.com/rarnista22/UG_lab.git) gr. 4 +++
+- [Kacper Miś](https://github.com/misk2) gr. 4 +++
+- [Rafał Arnista](https://github.com/rarnista22/UG_lab.git) gr. 4 ++++
 - [Olaf Drozd](https://github.com/Olaf1522/studiaLab.git) gr. 4 ++
 - [Mateusz Ostrowski](https://github.com/Matost99/Informatyka.git) gr.4
-- [Paulina Szynaka](https://github.com/paulina9876/SPJP) gr. 4 ++
-- [Daria Ogdowska](https://github.com/DariaOgd/UG_SPJP) gr. 4 + + +
+- [Paulina Szynaka](https://github.com/paulina9876/SPJP) gr. 4 +++
+- [Daria Ogdowska](https://github.com/DariaOgd/UG_SPJP) gr. 4 + + + +
 - [Joanna Jońca](https://github.com/jjonca/SPJP) gr. 4 ++++
-- [Bartłomiej Wiczling](https://github.com/BWiczling/Bart-omiej-Wiczling.git) gr. 4 +++
+- [Bartłomiej Wiczling](https://github.com/BWiczling/Bart-omiej-Wiczling.git) gr. 4 ++++
