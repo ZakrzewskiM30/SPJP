@@ -26,7 +26,7 @@
 - [Rafał Arnista](https://github.com/rarnista22/UG_lab.git) gr. 4 ++++
 - [Olaf Drozd](https://github.com/Olaf1522/studiaLab.git) gr. 4 ++
 - [Mateusz Ostrowski](https://github.com/Matost99/Informatyka.git) gr.4
-- [Paulina Szynaka](https://github.com/paulina9876/SPJP) gr. 4 +++
+- [Paulina Szynaka](https://github.com/paulina9876/SPJP) gr. 4 ++++
 - [Daria Ogdowska](https://github.com/DariaOgd/UG_SPJP) gr. 4 + + + +
 - [Joanna Jońca](https://github.com/jjonca/SPJP) gr. 4 ++++
 - [Bartłomiej Wiczling](https://github.com/BWiczling/Bart-omiej-Wiczling.git) gr. 4 ++++
