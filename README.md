@@ -15,7 +15,7 @@
 - [Kamil Konkol](https://github.com/kkonkol/Laboratoria/) gr. 2 +++
 - [Michał Mówka](https://github.com/beobeb/UG) gr. 2 ++++
 - [Oskar Aleksanderek](https://github.com/oaleksanderek/) gr. 2 ++++
-- [Kacper Cichoszewski](https://github.com/kcichoszewski444/ug) gr. 2 ++++
+- [Kacper Cichoszewski](https://github.com/kcichoszewski444/ug) gr. 2 +++++
 - [Mateusz Kłosinski](https://github.com/mklosinski1/mklosinski/) gr. 2 ++++
 - [Jakub Jankowski](https://github.com/qn3k/Cwiczenia) gr. 4 ++++
 - [Aleksander Kozłowicz](https://github.com/Aleks277/newproject) gr.4 ++
