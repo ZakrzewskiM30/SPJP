@@ -3,7 +3,7 @@
 ## Lista uczestników \[Imię Nazwisko\]\(link do repozytorium\) gr. nr grupy
 
 - [Michał Zakrzewski](https://github.com/ZakrzewskiM30/SPJP/) gr. NAUCZYCIEL
-- [Krystian Rybiński](https://github.com/rybinskik/clanguage.git) gr. 2 +++
+- [Krystian Rybiński](https://github.com/rybinskik/clanguage.git) gr. 2 ++++
 - [Wiktoria Wiśniewska](https://github.com/wiqtoriaw/laboratoria) gr. 2 ++++
 - [Paweł Skorupa](https://github.com/skorupap/SPJP-1) gr. 2 ++++
 - [Adrian Jarząb](https://github.com/Kodii1/Nazwa.git) gr. 2 +++
